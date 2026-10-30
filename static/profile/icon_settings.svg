@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- 六边形：6个顶点 -->
+  <path d="M24 6L37 13.5V28.5L24 36L11 28.5V13.5L24 6Z" stroke="#303136" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+  <!-- 中心圆 -->
+  <circle cx="24" cy="21" r="5.5" stroke="#303136" stroke-width="2.5" fill="none"/>
+</svg>

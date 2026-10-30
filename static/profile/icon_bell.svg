@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- 铃铛主体 -->
+  <path d="M16 32V22C16 14 19.5 8 24 8C28.5 8 32 14 32 22V32" stroke="#303136" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- 底部横条 -->
+  <path d="M12 32H36" stroke="#303136" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- 底部小弧线（铃锤） -->
+  <path d="M21 35C21 37.2 22.3 39 24 39C25.7 39 27 37.2 27 35" stroke="#303136" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+</svg>
