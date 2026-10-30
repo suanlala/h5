@@ -1,1 +1,0 @@
-import{as as e,bs as c}from"./index-Bu57G0Ko.js";const o=e({});function r(){Object.keys(o).forEach(e=>{delete o[e]});try{c("report_guide_cache_v2")}catch(e){console.log("[report-guide-cache] 清除缓存失败:",e)}}export{r as c,o as r};
