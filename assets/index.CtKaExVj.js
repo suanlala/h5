@@ -1,0 +1,1 @@
+const a=a=>{var l,e;const s={errCode:2001005,errMsg:"当前平台不支持华为登录",errSubject:"huawei-plugin"};null==(l=a.fail)||l.call(a,s),null==(e=a.complete)||e.call(a,s)},l=a,e=a,s=a,r=a,c=a,o=a;export{r as a,o as b,s as c,c as d,l as i,e as o};

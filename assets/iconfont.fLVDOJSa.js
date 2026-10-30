@@ -1,0 +1,1 @@
+let o=!1;function n(){if(o)return;if(document.querySelector('script[src*="iconfont.js"]'))return void(o=!0);const n=document.createElement("script");n.src="/static/icon_font/iconfont.js",n.onload=()=>{o=!0,console.log("IconFont loaded successfully")},n.onerror=()=>{console.error("Failed to load IconFont")},document.head.appendChild(n)}export{n as i};
